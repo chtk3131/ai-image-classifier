@@ -1,4 +1,4 @@
 {
-  "python.pythonPath": "D:\\003_dev\\anaconda\\env\\ai_master\\python.exe",
+  "python.pythonPath": "d:\\003_dev\\anaconda\\env\\ai_master\\pythonw.exe",
   "python.formatting.provider": "black"
 }
